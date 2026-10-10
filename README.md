@@ -25,15 +25,7 @@ Además, colaboro con **SINTERING (Soluciones de Inteligencia Territorial)**, un
 ### Identificadores de investigador
 * **ORCID:** [0009-0008-3210-9197](https://orcid.org/0009-0008-3210-9197)
 * **Google Scholar:** [K51t47IAAAAJ](https://scholar.google.com/citations?user=K51t47IAAAAJ)
-
----
-
-### Enlaces
-* [Perfil en la Universidad de Huelva](https://www.uhu.es/)
-* [SINTERING](https://www.sintering.es/)
-* [LinkedIn](https://www.linkedin.com/in/TU_USUARIO/)
-* [ResearchGate](https://www.researchgate.net/profile/Antonio-Moreno-4)
-
+* **ResearchGate:** [ResearchGate](https://www.researchgate.net/profile/Antonio-Moreno-4)
 ---
 
 ### Estadísticas de GitHub
