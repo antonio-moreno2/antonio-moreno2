@@ -8,7 +8,7 @@
 ---
 
 ### Biografía
-Soy profesor en la Escuela Técnica Superior de Ingeniería de la Universidad de Huelva, donde imparto asignaturas del Área de Ciencias de la Computación e Inteligencia Artificial como *Fundamentos de Análisis de Algoritmos*, *Análisis Inteligente de Datos* y *Procesamiento del Habla*.
+Soy profesor en la Escuela Técnica Superior de Ingeniería de la Universidad de Huelva, donde imparto asignaturas del **Área de Ciencias de la Computación e Inteligencia Artificial** como *Fundamentos de Análisis de Algoritmos*, *Análisis Inteligente de Datos* y *Procesamiento del Habla*.
 
 Además, colaboro con **SINTERING (Soluciones de Inteligencia Territorial)**, una spin-off de la Universidad de Huelva especializada en consultoría de inteligencia territorial. Mi trabajo une la docencia, la investigación y la transferencia al territorio.
 
