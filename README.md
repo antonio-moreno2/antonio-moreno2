@@ -1,6 +1,6 @@
 # Antonio Moreno Moreno
 
-**Departamento de Tecnologías de la Información
+**Departamento de Tecnologías de la Información**
 **Escuela Técnica Superior de Ingeniería (ETSI)**  
 *Universidad de Huelva, España*
 
@@ -18,15 +18,6 @@ Además, colaboro con **SINTERING (Soluciones de Inteligencia Territorial)**, un
 * Aprendizaje automático e inteligencia artificial aplicados a la salud
 * Análisis de algoritmos y su pedagogía
 * Procesamiento del habla
-
----
-
-### Docencia
-| Asignatura | Titulación |
-|------------|------------|
-| Fundamentos de Análisis de Algoritmos | ETSI, Universidad de Huelva |
-| Análisis Inteligente de Datos | ETSI, Universidad de Huelva |
-| Procesamiento del Habla | Grado en Informática |
 
 ---
 
