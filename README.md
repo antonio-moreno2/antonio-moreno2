@@ -23,7 +23,7 @@ Además, colaboro con **SINTERING (Soluciones de Inteligencia Territorial)**, un
 ---
 
 ### Identificadores de investigador
-* **ORCID:** [TU_ID](https://orcid.org/TU_ID)
+* **ORCID:** [0009-0008-3210-9197](https://orcid.org/0009-0008-3210-9197)
 * **Google Scholar:** [K51t47IAAAAJ](https://scholar.google.com/citations?user=K51t47IAAAAJ)
 * **Scopus:** [TU_ID](https://www.scopus.com/inward/authorDetails.uri?authorID=TU_ID)
 
